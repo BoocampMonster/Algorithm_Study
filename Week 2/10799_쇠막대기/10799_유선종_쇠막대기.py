@@ -17,4 +17,3 @@ def solution(array:List[str]):
 
 array = list(input())
 print(solution(array))
-            
